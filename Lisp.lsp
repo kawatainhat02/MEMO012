@@ -18,3 +18,4 @@ restarts (invokable by number or by possibly-abbreviated name):
 
 * (+ (* 1 2) (- 3 4))
 
+* (setq a (+ 1 2 3))
